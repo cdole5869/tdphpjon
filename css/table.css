@@ -1,0 +1,21 @@
+table {
+  border-collapse: separate;
+  border: 1px solid black
+}
+
+td {
+  border: 1px solid black;
+  padding: 5px;
+}
+
+.space {
+  border-spacing: 5px;
+}
+
+.titre {
+    font-weight: bold;
+}
+.img {
+    width: 200px;
+    height: 220px;
+}

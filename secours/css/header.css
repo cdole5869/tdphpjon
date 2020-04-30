@@ -1,0 +1,39 @@
+header {
+    height: 5vh;
+    height: 50px;
+    border: 1px solid black;
+    display: flex;
+    justify-content: space-around;
+    text-align: center;
+    align-items: center;
+    background-color: #b3ffd9;
+}
+header li {
+    display: inline-block;
+    text-align: center;
+    align-items: center;
+    justify-content: space-between;
+    border : 1px solid black;
+    height: 30px;
+    min-width: 80px;
+    border-radius: 30%;
+    background-color: #b3e0ff;
+    cursor: pointer;
+}
+header a {
+    text-decoration: none;
+    text-align: center;
+    justify-content: center;
+    color: black;
+    font-weight: bold;
+    width: 100%;
+}
+
+ul {
+    justify-content: space-around;
+    display: flex;
+}
+
+nav {
+    width: 100%;
+}
